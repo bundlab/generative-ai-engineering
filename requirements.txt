@@ -1,0 +1,26 @@
+# Foundation & LLM APIs
+openai>=1.30.0
+anthropic>=0.28.0
+
+# Open-Source Embeddings & ML
+sentence-transformers>=3.0.0
+torch>=2.2.0
+numpy>=1.26.0
+
+# Vector Databases
+qdrant-client>=1.9.0
+
+# Document Parsing & Text Processing
+pypdf>=4.2.0
+tiktoken>=0.7.0
+
+# Web Frameworks & Async API
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.7.0
+python-multipart>=0.0.9
+
+# Utilities & Infrastructure
+python-dotenv>=1.0.1
+requests>=2.32.0
+tqdm>=4.66.0
